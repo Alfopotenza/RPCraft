@@ -1,0 +1,4 @@
+name: RPCraft
+version: '1.0-SNAPSHOT'
+main: RPCraft.rPCraft.RPCraft
+api-version: '1.21'
